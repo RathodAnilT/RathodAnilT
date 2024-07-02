@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rathodanilt" alt="rathodanilt" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Blog website**
+- 🔭 I’m actively developing a blog website using the **MERN stack.**
 
-- 🌱 I’m currently learning **Full stack Development and enhancing my skills in software development.**
+- 🌱 I’m expanding my expertise in**Full Stack Development and continuously improving my software development skills.**
 
-- 👯 I’m looking to collaborate on **open-source projects and internships**
+- 👯  I’m eager to collaborate on **open-source projects and internships**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RathodAnilT](https://github.com/RathodAnilT)
-
-- 💬 Ask me about **Web Development, Data Structures and Algorithms**
+- 👨‍💻  Explore all of my projects on [https://github.com/RathodAnilT](https://github.com/RathodAnilT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
