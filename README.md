@@ -2,10 +2,6 @@
 <h1 align="center">Hello there👋</h1>
 <h3 align="center">  I am Anil Rathod and it's amazing to have you here! 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodanilt&label=Profile%20views&color=0e75b6&style=flat" alt="rathodanilt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rathodanilt" alt="rathodanilt" /></a> </p>
-
 - 🔭 I’m actively developing a **blog website using the MERN stack.**
 
 - 🌱 I’m expanding my expertise in **Full Stack Development and continuously improving my software development skills.**
@@ -13,6 +9,10 @@
 - 👯 I’m eager to collaborate on **open-source projects and internships**
 
 - 👨‍💻 Explore all of my projects on [https://github.com/RathodAnilT](https://github.com/RathodAnilT)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodanilt&label=Profile%20views&color=0e75b6&style=flat" alt="rathodanilt" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rathodanilt" alt="rathodanilt" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
