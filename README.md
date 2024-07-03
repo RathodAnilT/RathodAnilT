@@ -30,20 +30,25 @@
 
 ## My GitHub Stats
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{RathodAnilT}/count.svg" alt="Rathod Anil Visitor's count" /></p>
+<div align="center">
+  <h4>Visitor's count :eyes:</h4>
+  <p><img src="https://profile-counter.glitch.me/{RathodAnilT}/count.svg" alt="Rathod Anil Visitor's count" /></p>
+</div>
 
-<a href="http://www.github.com/RathodAnilT">
-  <img src="https://github-readme-stats.vercel.app/api?username=RathodAnilT&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RathodAnilT's GitHub stats" />
-</a>
+<div align="center">
+  <h4>Profile stats</h4>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=RathodAnilT&count_private=true&show_icons=true&theme=gotham" /></p>
+</div>
 
-<a href="http://www.github.com/RathodAnilT">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RathodAnilT&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" alt="RathodAnilT's GitHub streak stats" />
-</a>
+<div align="center">
+  <a href="http://www.github.com/RathodAnilT">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RathodAnilT&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" alt="RathodAnilT's GitHub streak stats" />
+  </a>
+</div>
 
-
-
-
+<br/>
+<br/>
 Feel free to explore my repositories, contribute to my projects, or reach out for collaboration. I'm always open to learning and connecting with fellow developers! 😊
+
 
 
