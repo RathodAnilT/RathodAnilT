@@ -51,23 +51,8 @@
 <br/>
 Feel free to explore my repositories, contribute to my projects, or reach out for collaboration. I'm always open to learning and connecting with fellow developers! 😊
 
-<p align="center">
-  ## 📈 Contribution Graph
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RathodAnilT&theme=react-dark" alt="Contribution Graph">
-</p>
 
-<p align="center">
-  ## 🧑‍💻 Dynamic Dev Card
-</p>
-
-<p align="center">
-  <a href="https://app.daily.dev/RathodAnilT">
-    <img src="https://api.daily.dev/devcards/0f0f0f0f0f0f0f0f0f.png?r=xzx" width="400" alt="Anil Rathod's Dev Card"/>
-  </a>
-</p>
 
 
 
