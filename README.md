@@ -6,9 +6,11 @@
 <h1 align="center">Hello there👋</h1>
 <h3 align="center">  I am Anil Rathod and it's amazing to have you here! 🚀</h3>
 
-- 🌱 I’m actively expanding my expertise in **Full Stack Development, focusing on backend technologies like MongoDB, Express.js, and Node.js, while continuously improving my software development skills.**
+- 🌱 I’m actively learning **MERN Stack Development** while continuously improving my overall software development skills.
 
 - 👯 I’m eager to collaborate on **open-source projects and internships**
+
+- 💬 Ask me about **C++, Data Structures & Algorithm**
 
 - 👨‍💻 Explore all of my projects on [https://github.com/RathodAnilT](https://github.com/RathodAnilT)
 
