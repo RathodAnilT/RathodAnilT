@@ -59,5 +59,6 @@
 <div align="center">
 <img src="https://camo.githubusercontent.com/fdca4f1b4be5e7c1c2439e91b3a11494cdd64d9004fdd638042fd6702510a60a/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457863475179646a4271616e41784d7a417865585a6a4d3270686433466f6448567a5a7a466c646e4a6e4e584d784e474e686458637965535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f52706c31736f64317643584b304c3253554e2f67697068792e676966" width="320" height="280" alt="Animated GIF" style="float: left;"/>
 </div>
-
+<br/>
+<br/>
   Feel free to explore my repositories, contribute to my projects, or reach out for collaboration. I'm always open to learning and connecting with fellow developers! 😊
