@@ -6,7 +6,7 @@
 <h1 align="center">Hello there👋</h1>
 <h3 align="center">  I am Anil Rathod and it's amazing to have you here! 🚀</h3>
 
-- 🌱 I’m actively learning **MERN Stack Development** while continuously improving my overall software development skills.
+- 🌱 I’m actively learning **MERN Stack Development while honing my skills in DSA** and continuously improving my overall software development skills.
 
 - 👯 I’m eager to collaborate on **open-source projects and internships**
 
