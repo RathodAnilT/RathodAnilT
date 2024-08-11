@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **C++, Data Structures & Algorithm**
 
+- 📫 How to reach me https://linktr.ee/Anil_Rathod
+
 - 👨‍💻 Explore all of my projects on [https://github.com/RathodAnilT](https://github.com/RathodAnilT)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodanilt&label=Profile%20views&color=0e75b6&style=flat" alt="rathodanilt" /> </p>
