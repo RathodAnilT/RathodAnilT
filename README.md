@@ -65,4 +65,8 @@
 </div>
 <br/>
 <br/>
+
+![Anil Rathod's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RathodAnilT&bg_color=000000&color=ffffff&line=ff5733&point=33ff57&area=true&hide_border=true)
+
+
   Feel free to explore my repositories, contribute to my projects, or reach out for collaboration. I'm always open to learning and connecting with fellow developers! 😊
