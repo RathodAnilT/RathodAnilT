@@ -2,6 +2,15 @@
   <img src="https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" width="300" height="300" alt="Image" style="margin-right: 10px;"/>
 </div>
 
+ 
+<br/>
+<br/>
+
+<p align="center" style="background-color: #e0f7fa; padding: 20px; border-radius: 10px; font-style: italic; font-size: 20px; color: #004d40; border: 2px solid #00796b; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 600px; margin: auto;">
+  💭 <span style="color: #00796b;">"The only way to do great work is to love what you do."</span> – <span style="color: #004d40;">Steve Jobs</span>
+</p>
+
+
 
 <h1 align="center">Hello there👋</h1>
 <h3 align="center">  I am Anil Rathod and it's amazing to have you here! 🚀</h3>
