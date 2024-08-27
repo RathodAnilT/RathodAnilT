@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" width="300" height="300" alt="Image" style="margin-right: 10px;"/>
-</div>
 
- 
+| ![Left Giphy Animation](https://media.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif) | [![Center Giphy Embed](https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif)](https://giphy.com/gifs/vonheldenundgestaltenstuttgart-matrix-programming-hacker-iGpHt2H22k1orjgT9b) | ![Right Giphy Animation](https://media.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif) |
+|------------|----------------------|-------------|
+
 <br/>
 <br/>
 
@@ -104,3 +103,5 @@
 
 
   Feel free to explore my repositories, contribute to my projects, or reach out for collaboration. I'm always open to learning and connecting with fellow developers! 😊
+
+
