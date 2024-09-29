@@ -13,7 +13,7 @@
 
 - 🌱 I’m actively learning **MERN Stack Development while honing my skills in DSA** and continuously improving my overall software development skills.
 
-- 👯 I’m eager to collaborate on **open-source projects and internships**
+- 👯 I’m eager to collaborate on **open-source projects and internships.**
 
 - 💬 Ask me about **C++, Data Structures & Algorithm**
 
