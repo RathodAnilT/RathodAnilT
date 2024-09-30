@@ -66,7 +66,7 @@
 </p>
 
 
-## My GitHub Stats
+## My GitHub Stats.
 
 <div align="center">
   <h4>Visitor's count :eyes:</h4>
