@@ -15,7 +15,7 @@
 
 - 👯 I’m eager to collaborate on **open-source projects and internships.**
 
-- 💬 Ask me about **C++, Data Structures & Algorithm.**
+- 💬 Ask me about **C++, Data Structures & Algorithm and MERN stack Development**
 
 - 📫 How to reach me https://linktr.ee/Anil_Rathod
 
