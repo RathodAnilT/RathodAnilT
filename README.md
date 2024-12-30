@@ -86,7 +86,16 @@
 
 <br/>
 <br/>
-
+<table>
+  <tr>
+    <td>
+      <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=RathodAnilT&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RathodAnilT&theme=radical" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
