@@ -7,7 +7,6 @@
 </p>
 
 
-
 <h1 align="center">Hello there...👋</h1>
 <h3 align="center">  🚀😊I am Anil Rathod and it's amazing to have you here!😊🚀</h3>
 
