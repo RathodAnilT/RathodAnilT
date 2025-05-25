@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300" alt="Typing code animation" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="120" height="90" alt="Terminal Coding"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120" height="90" alt="Keep Coding"/>
@@ -13,6 +17,10 @@
 </p>
 
 ---
+
+
+
+
 
 <br/>
 <br/>
@@ -122,6 +130,24 @@
 |------------|----------------------|-------------|
 <br/>
 <br/>
+   
   Feel free to explore my repositories, contribute to my projects, or reach out for collaboration. I'm always open to learning and connecting with fellow developers! 😊
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="250" height="250" alt="Real coding screen" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" height="250" alt="Clean coding animation" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
