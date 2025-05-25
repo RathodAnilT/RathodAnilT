@@ -116,6 +116,8 @@
 
 ![Anil Rathod's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RathodAnilT&bg_color=000000&color=ffffff&line=ff5733&point=33ff57&area=true&hide_border=true)
 
+![GitHub Contribution Snake](https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
+
 | ![Left Giphy Animation](https://media.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif) | [![Center Giphy Embed](https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif)](https://giphy.com/gifs/vonheldenundgestaltenstuttgart-matrix-programming-hacker-iGpHt2H22k1orjgT9b) | ![Right Giphy Animation](https://media.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif) |
 |------------|----------------------|-------------|
 <br/>
