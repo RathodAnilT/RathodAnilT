@@ -123,10 +123,11 @@
 </table>
 <br/>
 <p align="center">
-  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RathodAnilT&theme=dark" alt="Top Languages Card"/>
+  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RathodAnilT&theme=dark" alt="Top Languages Card"/>
   &nbsp;&nbsp;
-  <img width="430" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RathodAnilT&theme=dark" alt="Most Used Language Card"/>
+  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RathodAnilT&theme=dark" alt="Most Used Language Card"/>
 </p>
+
 
 
 <br/>
