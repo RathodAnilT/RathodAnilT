@@ -141,15 +141,6 @@
 <br/>
 <br/>
    
-  Feel free to explore my repositories, contribute to my projects, or reach out for collaboration. I'm always open to learning and connecting with fellow developers! 😊
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="250" height="250" alt="Real coding screen" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" height="250" alt="Clean coding animation" />
-</p>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+😊;Connect+me+on+LinkedIn!;I%27m+always+ready+to+collab+:)" alt="Typing SVG" />
 </p>
