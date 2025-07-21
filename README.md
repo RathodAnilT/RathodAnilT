@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300" alt="Typing code animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+Aspiring+SDE;Open+Source+Contributor+%7C+Problem+Solver;AI+Enthusiast+%7C+Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
+
+<br/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="120" height="90" alt="Terminal Coding"/>
