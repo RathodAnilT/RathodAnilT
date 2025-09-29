@@ -1,3 +1,4 @@
+
 ![Wave Animation](https://camo.githubusercontent.com/1bf6ed158eef4ab150c095f8e2b419384f4bacffe8fe8cc103dc3cf8e24b52c3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d363439394539266865696768743d39302673656374696f6e3d686561646572)
 <p align="center">
   <img src="assets/Rathod.jpeg" alt="My Image" width="500" />
@@ -153,6 +154,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+😊;Connect+me+on+LinkedIn!;I%27m+always+ready+to+collab+:)" alt="Typing SVG" />
 </p>
 
+![Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
 
