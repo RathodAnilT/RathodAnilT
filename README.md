@@ -48,18 +48,21 @@
 </p>
 
 
-<h1 align="center">Hello there...👋</h1>
-<h3 align="center">  🚀😊I am Anil Rathod and it's amazing to have you here!😊🚀</h3>
+<h1 align="center">Glad to see you here!👋</h1>
+<p align="center"> I am Anil Rathod, a Computer Science and Engineering graduate 🎓 from DYPIEMR, Pune 🏛. I'm a passionate learner, always eager to explore and work across technologies. I love solving real-world problems ✨ and enjoy guiding and mentoring newcomers👨🏻‍💻.😊🚀</p>
+<br/>
+<h1 align="center">Talking about personal stuff:</h1>
 
-- 🌱 I’m actively learning **MERN Stack Development while honing my skills in DSA** and continuously improving my overall software development skills.🌱
+- 👨🏻‍💻 I’m currently working on something cool 😉
 
-- 👯 I’m eager to collaborate on **open-source projects and internships.**
+- 🌱 I’m always learning something new and interesting!👯
 
 - 💬 Ask me about **C++, Java, Python, Javascript and Data Structures & Algorithm and MERN stack Development**
 
 - 📫 How to reach me https://linktr.ee/Anil_Rathod
 
 - 👨‍💻 Explore all of my projects on [https://github.com/RathodAnilT](https://github.com/RathodAnilT)
+- 💬 Ask me anything! I’m happy to help.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodanilt&label=Profile%20views&color=0e75b6&style=flat" alt="rathodanilt" /> </p>
 
