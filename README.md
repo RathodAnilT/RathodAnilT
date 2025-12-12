@@ -1,5 +1,11 @@
 
+
 ![Wave Animation](https://camo.githubusercontent.com/1bf6ed158eef4ab150c095f8e2b419384f4bacffe8fe8cc103dc3cf8e24b52c3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d363439394539266865696768743d39302673656374696f6e3d686561646572)
+
+<br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&height=300" alt="Dynamic Quote"/>
+</p>
 
 <br/>
 
