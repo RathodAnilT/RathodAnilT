@@ -1,14 +1,22 @@
 
 ![Wave Animation](https://camo.githubusercontent.com/1bf6ed158eef4ab150c095f8e2b419384f4bacffe8fe8cc103dc3cf8e24b52c3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d363439394539266865696768743d39302673656374696f6e3d686561646572)
-<p align="center">
-  <img src="assets/Rathod.jpeg" alt="My Image" width="500" />
-</p>
-<br/>
-<br/>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+Aspiring+SDE;Open+Source+Contributor+%7C+Problem+Solver;AI+Enthusiast+%7C+Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
-</p>
 
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/Rathod.jpeg" width="350" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Srinivasa-Pradeep/Srinivasa-Pradeep/c8f0a7bde22ff05b7e140f66977ac8870a1281cd/Asset/Dev-Setup%20Illustration.png" width="350" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+Aspiring+SDE;Open+Source+Contributor+%7C+Problem+Solver;AI+Enthusiast+%7C+Tech+Explorer+%7C+Lifelong+Learner" />
+</p>
 <br/>
 
 <p align="center">
