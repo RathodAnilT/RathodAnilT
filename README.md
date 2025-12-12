@@ -49,7 +49,7 @@
 
 
 <h1 align="center">Glad to see you here!👋</h1>
-<p align="center"> I am Anil Rathod, a Computer Science and Engineering graduate 🎓 from DYPIEMR, Pune 🏛. I'm a passionate learner, always eager to explore and work across technologies. I love solving real-world problems ✨ and enjoy guiding and mentoring newcomers👨🏻‍💻.😊🚀</p>
+<p align="center"> I am Anil Rathod, a Computer Science and Engineering graduate 🎓 from DYPIEMR, Pune 🏛. I'm a passionate learner, always eager to explore and work across technologies. I love solving real-world problems ✨ and enjoy guiding and mentoring newcomers👨🏻‍💻</p>
 <br/>
 <h1 align="center">Talking about personal stuff:</h1>
 
@@ -62,6 +62,7 @@
 - 📫 How to reach me https://linktr.ee/Anil_Rathod
 
 - 👨‍💻 Explore all of my projects on [https://github.com/RathodAnilT](https://github.com/RathodAnilT)
+  
 - 💬 Ask me anything! I’m happy to help.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodanilt&label=Profile%20views&color=0e75b6&style=flat" alt="rathodanilt" /> </p>
