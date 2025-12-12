@@ -6,14 +6,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/Rathod.jpeg" width="450" />
+      <img src="assets/Rathod.jpeg" width="500" height="400" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Srinivasa-Pradeep/Srinivasa-Pradeep/c8f0a7bde22ff05b7e140f66977ac8870a1281cd/Asset/Dev-Setup%20Illustration.png" width="450" />
+      <img src="https://raw.githubusercontent.com/Srinivasa-Pradeep/Srinivasa-Pradeep/c8f0a7bde22ff05b7e140f66977ac8870a1281cd/Asset/Dev-Setup%20Illustration.png" width="500" height="400" />
     </td>
   </tr>
 </table>
 
+<br/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+Aspiring+SDE;Open+Source+Contributor+%7C+Problem+Solver;AI+Enthusiast+%7C+Tech+Explorer+%7C+Lifelong+Learner" />
 </p>
