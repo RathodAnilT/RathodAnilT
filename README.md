@@ -63,7 +63,7 @@
 
 - 🌱 I’m always learning something new and interesting!👯
 
-- 💬 Ask me about **C++, Java, Python, Javascript and Data Structures & Algorithm and MERN stack Development**
+- 💬 Ask me about **C++, Java, Python, Javascript and Data Structures & Algorithm, MERN stack Development and AIML**
 
 - 📫 How to reach me https://linktr.ee/Anil_Rathod
 
